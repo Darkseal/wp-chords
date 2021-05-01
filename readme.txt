@@ -14,7 +14,7 @@ WP Chords Fork allows you to to format and display the chords on your blog: it's
 == Description ==
 ***WP Chords Fork*** is a fork of Emre Polat's great [WP Chords](https://wordpress.org/plugins/wp-chords/) plugin, which allows you to format and display the chords on your blog. You can set font sizes, enable transposing chords especially in your posts. **Compatible with [Google AMP](http://amp.dev) (Accelerated Mobile Pages)**.  It's fully supported different devices such as tablets, mobile phones and most of web browsers.
 
-This fork has been created to fix a bug in the original plugin that affects the semitone transpose feature, thus making it work. The list of features below is taken from the former plugin.
+This fork has been created to fix a bug in the original plugin that affects the semitone transpose feature, thus making it work. The list of features below is taken from the former plugin. For a complete explanation in the transpose feature fix and how it affects the former plugin's behaviour, [read this post](https://www.ryadel.com/en/wp-chords-plugin-worpdress-guitar/).
 
 ### Eazy Real Time Demo
 
