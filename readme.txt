@@ -1,19 +1,20 @@
-== WP Chords ==
-Contributors: emreplt
+== WP Chords Fork ==
+Contributors: Darkseal
 Donate link: emreplt.com
 Tags: chords, songs, guitar, ukulele, music, post, posts, lyrics, format, formatter, transpose, transposer, AMP, accelerated, mobile, pages, tablet, tabs
 Requires at least: 4.6
 Tested up to: 5.2.1
-Stable tag: 1.0.9
+Stable tag: 1.0.0
 Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-WP Chords allows you to format and display the chords on your blog including mobile friendly interface and AMP functionality.
+WP Chords Fork allows you to to format and display the chords on your blog: it's a fork of WP Chords that fixes a bug in the semitone transpose feature to make it work.
 
 == Description ==
+***WP Chords Fork*** is a fork of Emre Polat's great [WP Chords](https://wordpress.org/plugins/wp-chords/) plugin, which allows you to format and display the chords on your blog. You can set font sizes, enable transposing chords especially in your posts. **Compatible with [Google AMP](http://amp.dev) (Accelerated Mobile Pages)**.  It's fully supported different devices such as tablets, mobile phones and most of web browsers.
 
-WP Chords allows you to format and display the chords on your blog. You can set font sizes, enable transposing chords especially in your posts. **Compatible with [Google AMP](http://amp.dev) (Accelerated Mobile Pages)**.  It's fully supported different devices such as tablets, mobile phones and most of web browsers.
+This fork has been created to fix a bug in the original plugin that affects the semitone transpose feature, thus making it work. The list of features below is taken from the former plugin.
 
 ### Eazy Real Time Demo
 
@@ -50,9 +51,9 @@ Ab, Abm, Ab6, Ab7, Ab9, Abm6, Abm7, Abmaj7, Abdim, Ab+, Absus, A, Am, A6, A7, A9
 
 == Installation ==
 
-1. Upload the zipped file to your sites ‘/wp-content/plugins/’ directory
-2. Activate the plugin through the ‘Plugins’ menu in WordPress
-3. Use the Settings->WP Chords screen to configure the plugin
+1. Upload the zipped file to your sites '/wp-content/plugins/' directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Use the Settings->WP Chords Fork screen to configure the plugin
 
 == Frequently Asked Questions ==
 
@@ -64,7 +65,7 @@ Available chord codes are: [Ab], [Abm], [Ab6], [Ab7], [Ab9], [Abm6], [Abm7], [Ab
 
 = How can I test it? =
 
-1. Go Settings->WP Chords screen.
+1. Go Settings->WP Chords Fork screen.
 2. Find the "Settings with realtime demo" field.
 3. Fill "Source" text area with the "How can I use WP chords?" directions.
 4. In the "Result" section your song will be formatted with your configurations simultaneously.
@@ -76,7 +77,7 @@ Available chord codes are: [Ab], [Abm], [Ab6], [Ab7], [Ab9], [Abm6], [Abm7], [Ab
 
 = How can I disable font sizing? =
 
-1. Go Settings->WP Chords screen to configure the plugin.
+1. Go Settings->WP Chords Fork screen to configure the plugin.
 2. Check "Hide Font Size Changer".
 
 = How can I disable chord transposing? =
@@ -99,77 +100,8 @@ Available chord codes are: [Ab], [Abm], [Ab6], [Ab7], [Ab9], [Abm6], [Abm7], [Ab
 1. Go Settings->WP Chords screen to configure the plugin.
 2. Fill "Redirection to full page (If amp is enabled)" area with your desired text.
 
-== Screenshots ==
-
-1. Final render.
-2. Your source code in the editor.
-
 == Changelog ==
 
 = 1.0.0 =
-* Initial release.
+* Initial release (aligned to the 1.0.9 release of WP Chords).
 
-= 1.0.1 =
-* Early Fix
-
-= 1.0.2 =
-* Icons Fix
-* Added gray boxes around chords
-
-= 1.0.3 =
-* Performance fix
-
-= 1.0.4 =
-* 187 chords are available now!
-* Added AMP availability (requires AMP plugin!)
-* Added original chord visualizer
-
-= 1.0.5 =
-* Improved mobile interface
-
-= 1.0.6 =
-* Improved mobile interface
-
-= 1.0.7 =
-* Improved mobile interface
-
-= 1.0.8 =
-* Mobile Interface fix
-
-= 1.0.9 =
-* Mobile Interface fix
-
- == Upgrade Notice ==
-
-= 1.0.0 =
-* Initial release.
-
-= 1.0.1 =
-* Early Fix
-
-= 1.0.2 =
-* Icons Fix
-* Added gray boxes around chords
-
-= 1.0.3 =
-* Performance fix
-
-= 1.0.4 =
-* 187 chords are available now!
-* Added AMP availability (requires AMP plugin!)
-* Added original chord visualizer
-
-= 1.0.5 =
-* Improved mobile interface
-
-= 1.0.6 =
-* Improved mobile interface
-
-= 1.0.7 =
-* Improved mobile interface
-
-= 1.0.8 =
-* Mobile Interface fix
-
-= 1.0.9 =
-* Mobile Interface fix
