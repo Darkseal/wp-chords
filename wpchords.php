@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: WP Chords
+ * Plugin Name: WP Chords Fork
  * Description: Chords for your songs
- * Version:     1.0.9
- * Author:      Emre Polat <emreplt@gmail.com>
- * Author URI:  emreplt.com
+ * Version:     1.0.0
+ * Author:      Darkseal <darkseal@gmail.com>
+ * Author URI:  www.ryadel.com
  * Text Domain: wporg
  * Domain Path: /languages
  * License:     GPL2
@@ -12,7 +12,7 @@
  */
 
  /*
-WP Chords is free software: you can redistribute it and/or modify
+WP Chords Fork is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 2 of the License, or
 any later version.
