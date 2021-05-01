@@ -13,5 +13,8 @@ The transpose feature has been implemented on the client-side using `Vue.js`: ho
 # Credits
 All credits go to [Emre Polat](http://emreplt.com/), I've just fixed the transpose feature waiting for him to further improve his wonderful work. As soon as he'll release a fixed version of his ***WP Chords*** plugin there will no need to use/install this fork; If the author doesn't want to do that, I'll be more than happy to improve the plugin's source code myself - as long as it will be released to GitHub!
 
-# References
-* https://www.ryadel.com/en/wp-chords-plugin-worpdress-guitar
+# Useful Links
+* [WP Chords Fork official website](https://www.ryadel.com/en/wp-chords-plugin-worpdress-guitar)
+* [WP Chords Fork Wordpress Plugin Page]()
+* [WP Chords Wordpress Plugin Page](https://wordpress.org/plugins/wp-chords/)
+* [Emre Polat's personal website](http://emreplt.com/)
