@@ -1,4 +1,4 @@
-# wp-chords
+# WP Chords Fork
 A fork of Emre Polat's great [WP Chords](https://wordpress.org/plugins/wp-chords/) Wordpress plugin with patched translation function.
 
 # Introduction
