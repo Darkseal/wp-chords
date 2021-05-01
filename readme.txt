@@ -16,6 +16,8 @@ WP Chords Fork allows you to to format and display the chords on your blog: it's
 
 This fork has been created to fix a bug in the original plugin that affects the semitone transpose feature, thus making it work. The list of features below is taken from the former plugin. For a complete explanation in the transpose feature fix and how it affects the former plugin's behaviour, [read this post](https://www.ryadel.com/en/wp-chords-plugin-worpdress-guitar/).
 
+***WP Chords Fork*** is released under GPL v2 license, just like the former plugin: the full source code is also available on [GitHub](https://github.com/Darkseal/wp-chords).
+
 ### Eazy Real Time Demo
 
 As soon as you install the WP Chords plugin, you will find live demo playground under **Settings**->**WP Chords**. You even don't need to create a post or a record in your database!
