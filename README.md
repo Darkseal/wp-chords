@@ -13,6 +13,9 @@ Unfortunately, one of the plugin's most useful features - the "chord transpose" 
 # The fix
 The transpose feature has been implemented on the client-side using `Vue.js`: however, since the original plugin doesn't have a public GitHub repository, I had no chance to properly fix the issue from within `Vue.js`: for this very reason I've just "hacked" the resulting JavaScript bundle, unobfuscating it using [this tool](https://lelinhtinh.github.io/de4js/) and replaced the 17-length chord list with a 12-length chord list, suppressing the flat chords and only leaving the sharp ones. Such modification fixed the transpose logic, yet also made the flat notation unusable. In order to put it back, I've added an `alt` property to each chord, so that I could decorate each sharp chord with its corresponding flat counterpart (Bb for A#, Gb for F#, and so on): this did the trick. The only major difference with the original plugin is that the "flat" notation (b) is automatically converted to its "sharp" counterpart (#), which in my opinion is a nice addition since it kind of "normalizes" the resulting chords chart.
 
+# Demo
+You can see the plugin at work [here](https://www.hanahaki.com/en/koseidon-guitar-keyboard-chords/), and basically in all post within [this list](https://www.hanahaki.com/en/music/chords/).
+
 # Credits
 All credits go to [Emre Polat](http://emreplt.com/), I've just fixed the transpose feature waiting for him to further improve his wonderful work. As soon as he'll release a fixed version of his ***WP Chords*** plugin there will no need to use/install this fork; If the author doesn't want to do that, I'll be more than happy to improve the plugin's source code myself - as long as it will be released to GitHub!
 
