@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WP Chords Fork
+ * Plugin Name: Chords Fork
  * Description: Chords for your songs
  * Version:     1.0.0
  * Author:      Darkseal <darkseal@gmail.com>

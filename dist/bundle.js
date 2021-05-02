@@ -190,14 +190,12 @@
             var Ct = {};
             Ct[B] = Ct[U] = Ct[cn] = Ct[un] = Ct[H] = Ct[q] = Ct[dn] = Ct[fn] = Ct[bn] = Ct[mn] = Ct[pn] = Ct[G] = Ct[Z] = Ct[Q] = Ct[tn] = Ct[on] = Ct[en] = Ct[rn] = Ct[gn] = Ct[hn] = Ct[vn] = Ct[yn] = !0, Ct[K] = Ct[J] = Ct[an] = !1;
             var Ot = {
-                    "\\": "\\",
-                    "'": "'",
-                    "\n": "n",
-                    "\r": "r",
-                    "
-": "u2028",
-                    "
-": "u2029"
+                "\\": "\\",
+                "'": "'",
+                "\n": "n",
+                "\r": "r",
+                "\u2028": "u2028",
+                "\u2029": "u2029"
                 },
                 zt = parseFloat,
                 Et = parseInt,
