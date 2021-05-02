@@ -11198,6 +11198,12 @@
             id: "+",
             label: "+"
         }, {
+            id: "-",
+            label: "-"
+        }, {
+            id: "min",
+            label: "min"
+        }, {
             id: "sus",
             label: "sus"
         }],
